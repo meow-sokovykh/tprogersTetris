@@ -1,5 +1,5 @@
 # Tproger's Tetris
-Простой клон игры [Тетрис](https://ru.wikipedia.org/wiki/Тетрис), подготовленный для обучающей [статьи]( https://tproger.ru/articles/15-mins-for-2048/ https://tproger.ru/articles/15-mins-for-tetris/) на [Tproger](https://tproger.ru)
+Простой клон игры [Тетрис](https://ru.wikipedia.org/wiki/Тетрис), подготовленный для обучающей [статьи](https://tproger.ru/articles/15-mins-for-tetris/) на [Tproger](https://tproger.ru)
 
 ![Screenshot](https://tproger.azureedge.net/wp-content/uploads/2016/07/Tetris.png)
 
